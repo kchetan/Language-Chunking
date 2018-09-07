@@ -1,0 +1,418 @@
+(TOP (ROOT_153 (NP (NP (NP (PRP I)) (VP (VBP work))) (PP (IN in) (NP (DT a) (NP_121 (NN post) (NN office))))) (. .))) 1.0702495984e-08
+(TOP (ROOT_156 (NP (NP (PRP I)) (VP (VBP work))) (ROOT_155 (PP (IN in) (NP (DT a) (NP_121 (NN post) (NN office)))) (. .)))) 1.78881764733e-07
+(TOP (SQ_30 (NP (NP (NP (PRP I)) (VP (VBP work))) (PP (IN in) (NP (DT a) (NN post)))) (SQ_29 (NP (NN office)) (. .)))) 2.24295569472e-08
+(TOP (SQ_29 (NP (NP (NP (PRP I)) (VP (VBP work))) (PP (IN in) (NP (DT a) (NP_121 (NN post) (NN office))))) (. .))) 1.0702495984e-08
+(TOP (ROOT_154 (NP (NP (NP (PRP I)) (VP (VBP work))) (PP (IN in) (NP (DT a) (NN post)))) (ROOT_153 (NP (NN office)) (. .)))) 2.24295569472e-08
+(TOP (SQ_32 (NP (NP (PRP I)) (VP (VBP work))) (SQ_31 (PP (IN in) (NP (DT a) (NP_121 (NN post) (NN office)))) (. .)))) 1.78881764733e-07
+                     ################# BEST PARSE TREE ########################
+(TOP (ROOT_156 (NP (NP (PRP I)) (VP (VBP work))) (ROOT_155 (PP (IN in) (NP (DT a) (NP_121 (NN post) (NN office)))) (. .))))
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_153 (NP (NP (NNP Greg)) (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank))))) (. .))) 2.31784890206e-07
+(TOP (SQ_36 (NP (NNP Greg)) (SQ_35 (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank)))) (. .)))) 1.35626032888e-05
+(TOP (ROOT_151 (NP (NNP Greg)) (ROOT_150 (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank)))) (. .)))) 1.35626032888e-05
+(TOP (SBAR (NP (NNP Greg)) (SBAR_19 (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank)))) (. .)))) 3.57211845421e-06
+(TOP (ROOT_160 (NP (NNP Greg)) (ROOT_159 (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank)))) (. .)))) 1.35626032888e-05
+(TOP (ROOT_154 (NP (NP (NNP Greg)) (VP (VBZ works) (PP (IN in) (NP (DT a))))) (ROOT_153 (NP (NN bank)) (. .)))) 6.73589407716e-09
+(TOP (SQ_29 (NP (NP (NNP Greg)) (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank))))) (. .))) 2.31784890206e-07
+(TOP (SQ_30 (NP (NP (NNP Greg)) (VP (VBZ works) (PP (IN in) (NP (DT a))))) (SQ_29 (NP (NN bank)) (. .)))) 6.73589407716e-09
+(TOP (S_86 (NP (NNP Greg)) (S_85 (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank)))) (. .)))) 1.35626032888e-05
+(TOP (ROOT_164 (NP (NNP Greg)) (ROOT_163 (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank)))) (. .)))) 1.35626032888e-05
+(TOP (S (NP (NNP Greg)) (S_79 (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank)))) (. .)))) 9.28739948011e-06
+(TOP (SQ_40 (NP (NNP Greg)) (SQ_39 (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank)))) (. .)))) 1.35626032888e-05
+(TOP (SBAR_26 (NP (NNP Greg)) (SBAR_25 (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank)))) (. .)))) 1.35626032888e-05
+(TOP (ROOT (NP (NNP Greg)) (ROOT_144 (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank)))) (. .)))) 6.40833005396e-06
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ_36 (NP (NNP Greg)) (SQ_35 (VP (VBZ works) (PP (IN in) (NP (DT a) (NN bank)))) (. .))))
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_153 (NP (NP (NP (PRP They)) (VP (VBP live))) (PP (IN in) (NP (NNP Washington)))) (. .))) 1.0702495984e-08
+(TOP (SQ_29 (NP (NP (NP (PRP They)) (VP (VBP live))) (PP (IN in) (NP (NNP Washington)))) (. .))) 1.0702495984e-08
+(TOP (ROOT_156 (NP (NP (PRP They)) (VP (VBP live))) (ROOT_155 (PP (IN in) (NP (NNP Washington))) (. .)))) 1.78881764733e-07
+(TOP (SQ_32 (NP (NP (PRP They)) (VP (VBP live))) (SQ_31 (PP (IN in) (NP (NNP Washington))) (. .)))) 1.78881764733e-07
+                     ################# BEST PARSE TREE ########################
+(TOP (ROOT_156 (NP (NP (PRP They)) (VP (VBP live))) (ROOT_155 (PP (IN in) (NP (NNP Washington))) (. .))))
+----------------------------------------------------------------------------------------------------
+(TOP (SQ_30 (NP (NP (PRP I)) (VP (VBP eat) (VP_98 (NP (NN breakfast)) (PP (IN at) (NP (CD 8:00)))))) (SQ_29 (NP (RB a.m.)) (. .)))) 8.22717580515e-10
+(TOP (ROOT_154 (NP (NP (PRP I)) (VP (VBP eat) (VP_98 (NP (NN breakfast)) (PP (IN at) (NP (CD 8:00)))))) (ROOT_153 (NP (RB a.m.)) (. .)))) 8.22717580515e-10
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ_30 (NP (NP (PRP I)) (VP (VBP eat) (VP_98 (NP (NN breakfast)) (PP (IN at) (NP (CD 8:00)))))) (SQ_29 (NP (RB a.m.)) (. .))))
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_143 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.)))) 5.18396505684e-13
+(TOP (ROOT_183 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.)))) 5.18396505684e-13
+(TOP (SBAR_18 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.)))) 5.18396505684e-13
+(TOP (ROOT_165 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.)))) 5.18396505684e-13
+(TOP (ROOT_125 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.)))) 5.18396505684e-13
+(TOP (SQ_41 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.)))) 5.18396505684e-13
+(TOP (S_60 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.)))) 5.18396505684e-13
+(TOP (VP_88 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.)))) 5.18396505684e-13
+(TOP (VP_106 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.)))) 5.18396505684e-13
+(TOP (SQ_59 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.)))) 5.18396505684e-13
+(TOP (SBAR_0 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.)))) 5.18396505684e-13
+(TOP (S_78 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.)))) 5.18396505684e-13
+                     ################# BEST PARSE TREE ########################
+(TOP (ROOT_143 (NP (NP (PRP She)) (VP (VBZ goes) (S (TO to) (VP (VB work) (PP (IN at) (NP (CD 9:00))))))) (NP (RB a.m.))))
+----------------------------------------------------------------------------------------------------
+NO TREE POSSIBLE WITH GRAMMAR
+----------------------------------------------------------------------------------------------------
+NO TREE POSSIBLE WITH GRAMMAR
+----------------------------------------------------------------------------------------------------
+NO TREE POSSIBLE WITH GRAMMAR
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_153 (NP (NP (NP (NP (NNP Ram)) (VP (VBD had) (ADVP (RB not) (RB never)))) (VP (VBN been))) (PP (TO to) (NP (NNP Hyderabad)))) (. .))) 4.88579091849e-16
+(TOP (SQ_36 (NP (NNP Ram)) (SQ_35 (VP (VBD had) (NP (NP (NP (RB not)) (SBAR (NP (RB never)) (VP (VBN been)))) (PP (TO to) (NP (NNP Hyderabad))))) (. .)))) 4.715948954e-20
+(TOP (ROOT_151 (NP (NNP Ram)) (ROOT_150 (VP (VBD had) (NP (NP (NP (RB not)) (SBAR (NP (RB never)) (VP (VBN been)))) (PP (TO to) (NP (NNP Hyderabad))))) (. .)))) 4.715948954e-20
+(TOP (SBAR (NP (NNP Ram)) (SBAR_19 (VP (VBD had) (NP (NP (NP (RB not)) (SBAR (NP (RB never)) (VP (VBN been)))) (PP (TO to) (NP (NNP Hyderabad))))) (. .)))) 1.2420866355e-20
+(TOP (ROOT_160 (NP (NNP Ram)) (ROOT_159 (VP (VBD had) (NP (NP (NP (RB not)) (SBAR (NP (RB never)) (VP (VBN been)))) (PP (TO to) (NP (NNP Hyderabad))))) (. .)))) 4.715948954e-20
+(TOP (ROOT_154 (NP (NP (NNP Ram)) (VP (VBD had) (ADVP (RB not)))) (ROOT_153 (NP (NP (NP (RB never)) (VP (VBN been))) (PP (TO to) (NP (NNP Hyderabad)))) (. .)))) 4.17246544439e-18
+(TOP (SQ_29 (NP (NP (NP (NP (NNP Ram)) (VP (VBD had) (ADVP (RB not) (RB never)))) (VP (VBN been))) (PP (TO to) (NP (NNP Hyderabad)))) (. .))) 4.88579091849e-16
+(TOP (SQ_30 (NP (NP (NNP Ram)) (VP (VBD had) (ADVP (RB not)))) (SQ_29 (NP (NP (NP (RB never)) (VP (VBN been))) (PP (TO to) (NP (NNP Hyderabad)))) (. .)))) 4.17246544439e-18
+(TOP (S_86 (NP (NNP Ram)) (S_85 (VP (VBD had) (NP (NP (NP (RB not)) (SBAR (NP (RB never)) (VP (VBN been)))) (PP (TO to) (NP (NNP Hyderabad))))) (. .)))) 4.715948954e-20
+(TOP (ROOT_164 (NP (NNP Ram)) (ROOT_163 (VP (VBD had) (NP (NP (NP (RB not)) (SBAR (NP (RB never)) (VP (VBN been)))) (PP (TO to) (NP (NNP Hyderabad))))) (. .)))) 4.715948954e-20
+(TOP (SQ_32 (NP (NP (NP (NNP Ram)) (VP (VBD had) (ADVP (RB not) (RB never)))) (VP (VBN been))) (SQ_31 (PP (TO to) (NP (NNP Hyderabad))) (. .)))) 8.16612221042e-15
+(TOP (S (NP (NNP Ram)) (S_79 (VP (VBD had) (NP (NP (NP (RB not)) (SBAR (NP (RB never)) (VP (VBN been)))) (PP (TO to) (NP (NNP Hyderabad))))) (. .)))) 3.22938752472e-20
+(TOP (SQ_40 (NP (NNP Ram)) (SQ_39 (VP (VBD had) (NP (NP (NP (RB not)) (SBAR (NP (RB never)) (VP (VBN been)))) (PP (TO to) (NP (NNP Hyderabad))))) (. .)))) 4.715948954e-20
+(TOP (SBAR_26 (NP (NNP Ram)) (SBAR_25 (VP (VBD had) (NP (NP (NP (RB not)) (SBAR (NP (RB never)) (VP (VBN been)))) (PP (TO to) (NP (NNP Hyderabad))))) (. .)))) 4.715948954e-20
+(TOP (ROOT (NP (NNP Ram)) (ROOT_144 (VP (VBD had) (NP (NP (NP (RB not)) (SBAR (NP (RB never)) (VP (VBN been)))) (PP (TO to) (NP (NNP Hyderabad))))) (. .)))) 2.22828588076e-20
+(TOP (ROOT_156 (NP (NP (NP (NNP Ram)) (VP (VBD had) (ADVP (RB not) (RB never)))) (VP (VBN been))) (ROOT_155 (PP (TO to) (NP (NNP Hyderabad))) (. .)))) 8.16612221042e-15
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ_32 (NP (NP (NP (NNP Ram)) (VP (VBD had) (ADVP (RB not) (RB never)))) (VP (VBN been))) (SQ_31 (PP (TO to) (NP (NNP Hyderabad))) (. .))))
+----------------------------------------------------------------------------------------------------
+NO TREE POSSIBLE WITH GRAMMAR
+----------------------------------------------------------------------------------------------------
+(TOP (SBAR_25 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (SBAR_20 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (SBAR_21 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (ROOT_144 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (ROOT_145 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (ROOT_146 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (S_80 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (S_81 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (S_85 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (ROOT_184 (SQ (VBZ Is) (SQ_41 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 1.19371846724e-08
+(TOP (ROOT_185 (SQ (VBZ Is) (SQ_41 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 1.19371846724e-08
+(TOP (ROOT_186 (SQ (VBZ Is) (SQ_41 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 1.19371846724e-08
+(TOP (ROOT (VBZ Is) (ROOT_154 (NP (EX there)) (ROOT_153 (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))) (. ?))))) 5.33041207872e-07
+(TOP (SBAR_19 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (SBARQ_108 (SQ (VBZ Is) (SQ_41 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 1.19371846724e-08
+(TOP (SBARQ_109 (SQ (VBZ Is) (SQ_41 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 1.19371846724e-08
+(TOP (SBARQ_107 (SQ (VBZ Is) (SQ_41 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 1.19371846724e-08
+(TOP (ROOT_163 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (SQ_35 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (ROOT_150 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (SQ (VBZ Is) (SQ_30 (NP (EX there)) (SQ_29 (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))) (. ?))))) 5.92405745493e-06
+(TOP (SQ_39 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (S_79 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+(TOP (ROOT_159 (VP (VBZ Is) (VP_88 (NP (EX there)) (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))))) (. ?))) 3.64543254996e-07
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ (VBZ Is) (SQ_30 (NP (EX there)) (SQ_29 (NP (NP (DT any) (NN book)) (PP (IN on) (NP (DT the) (NN table)))) (. ?)))))
+----------------------------------------------------------------------------------------------------
+(TOP (SBARQ (WHNP (WP What)) (SBARQ_107 (SQ (VBZ is) (SQ_52 (ADVP (RB there)) (PP (IN on) (NP (DT the) (NN table))))) (. ?)))) 2.46093004082e-05
+(TOP (ROOT (WHNP (WP What)) (ROOT_184 (SQ (VBZ is) (SQ_52 (ADVP (RB there)) (PP (IN on) (NP (DT the) (NN table))))) (. ?)))) 5.41405812105e-06
+                     ################# BEST PARSE TREE ########################
+(TOP (SBARQ (WHNP (WP What)) (SBARQ_107 (SQ (VBZ is) (SQ_52 (ADVP (RB there)) (PP (IN on) (NP (DT the) (NN table))))) (. ?))))
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_153 (NP (NP (NP (EX There)) (VP (VBP are) (VP_92 (RB not) (NP (DT any) (NNS pencils))))) (PP (IN in) (NP (PRP$ my) (NN box)))) (. .))) 4.26938770258e-10
+(TOP (SQ_36 (NP (EX There)) (SQ_35 (VP (VBP are) (VP_92 (RB not) (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .)))) 2.49817887805e-08
+(TOP (ROOT_151 (NP (EX There)) (ROOT_150 (VP (VBP are) (VP_92 (RB not) (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .)))) 2.49817887805e-08
+(TOP (SBAR (NP (EX There)) (SBAR_19 (VP (VBP are) (VP_92 (RB not) (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .)))) 6.579703529e-09
+(TOP (ROOT_160 (NP (EX There)) (ROOT_159 (VP (VBP are) (VP_92 (RB not) (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .)))) 2.49817887805e-08
+(TOP (ROOT_154 (NP (NP (EX There)) (VP (VBP are) (ADVP (RB not)))) (ROOT_153 (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))) (. .)))) 1.28162337839e-10
+(TOP (SQ_29 (NP (NP (NP (EX There)) (VP (VBP are) (VP_92 (RB not) (NP (DT any) (NNS pencils))))) (PP (IN in) (NP (PRP$ my) (NN box)))) (. .))) 4.26938770258e-10
+(TOP (SQ_30 (NP (NP (EX There)) (VP (VBP are) (ADVP (RB not)))) (SQ_29 (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))) (. .)))) 1.28162337839e-10
+(TOP (S_86 (NP (EX There)) (S_85 (VP (VBP are) (VP_92 (RB not) (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .)))) 2.49817887805e-08
+(TOP (ROOT_164 (NP (EX There)) (ROOT_163 (VP (VBP are) (VP_92 (RB not) (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .)))) 2.49817887805e-08
+(TOP (SQ_32 (NP (NP (EX There)) (VP (VBP are) (VP_92 (RB not) (NP (DT any) (NNS pencils))))) (SQ_31 (PP (IN in) (NP (PRP$ my) (NN box))) (. .)))) 7.13586445359e-09
+(TOP (S (NP (EX There)) (S_79 (VP (VBP are) (VP_92 (RB not) (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .)))) 1.71070293211e-08
+(TOP (SQ_40 (NP (EX There)) (SQ_39 (VP (VBP are) (VP_92 (RB not) (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .)))) 2.49817887805e-08
+(TOP (SBAR_26 (NP (EX There)) (SBAR_25 (VP (VBP are) (VP_92 (RB not) (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .)))) 2.49817887805e-08
+(TOP (ROOT (NP (EX There)) (ROOT_144 (VP (VBP are) (VP_92 (RB not) (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .)))) 1.18038951988e-08
+(TOP (ROOT_156 (NP (NP (EX There)) (VP (VBP are) (VP_92 (RB not) (NP (DT any) (NNS pencils))))) (ROOT_155 (PP (IN in) (NP (PRP$ my) (NN box))) (. .)))) 7.13586445359e-09
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ_36 (NP (EX There)) (SQ_35 (VP (VBP are) (VP_92 (RB not) (NP (NP (DT any) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .))))
+----------------------------------------------------------------------------------------------------
+NO TREE POSSIBLE WITH GRAMMAR
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_153 (NP (NP (PRP It)) (VP (MD must) (VP (VB be) (NP (CD seven))))) (. .))) 7.16545416576e-07
+(TOP (SQ_36 (NP (PRP It)) (SQ_35 (VP (MD must) (VP (VB be) (NP (CD seven)))) (. .)))) 4.19277598933e-05
+(TOP (ROOT_151 (NP (PRP It)) (ROOT_150 (VP (MD must) (VP (VB be) (NP (CD seven)))) (. .)))) 4.19277598933e-05
+(TOP (SBAR (NP (PRP It)) (SBAR_19 (VP (MD must) (VP (VB be) (NP (CD seven)))) (. .)))) 1.10429334007e-05
+(TOP (ROOT_160 (NP (PRP It)) (ROOT_159 (VP (MD must) (VP (VB be) (NP (CD seven)))) (. .)))) 4.19277598933e-05
+(TOP (ROOT_154 (NP (NP (PRP It)) (VP (MD must) (VP (VB be)))) (ROOT_153 (NP (CD seven)) (. .)))) 4.29909194121e-07
+(TOP (SQ_29 (NP (NP (PRP It)) (VP (MD must) (VP (VB be) (NP (CD seven))))) (. .))) 7.16545416576e-07
+(TOP (SQ_30 (NP (NP (PRP It)) (VP (MD must) (VP (VB be)))) (SQ_29 (NP (CD seven)) (. .)))) 4.29909194121e-07
+(TOP (S_86 (NP (PRP It)) (S_85 (VP (MD must) (VP (VB be) (NP (CD seven)))) (. .)))) 4.19277598933e-05
+(TOP (ROOT_164 (NP (PRP It)) (ROOT_163 (VP (MD must) (VP (VB be) (NP (CD seven)))) (. .)))) 4.19277598933e-05
+(TOP (S (NP (PRP It)) (S_79 (VP (MD must) (VP (VB be) (NP (CD seven)))) (. .)))) 2.87112914197e-05
+(TOP (SQ_40 (NP (PRP It)) (SQ_39 (VP (MD must) (VP (VB be) (NP (CD seven)))) (. .)))) 4.19277598933e-05
+(TOP (SBAR_26 (NP (PRP It)) (SBAR_25 (VP (MD must) (VP (VB be) (NP (CD seven)))) (. .)))) 4.19277598933e-05
+(TOP (ROOT (NP (PRP It)) (ROOT_144 (VP (MD must) (VP (VB be) (NP (CD seven)))) (. .)))) 1.98108665496e-05
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ_36 (NP (PRP It)) (SQ_35 (VP (MD must) (VP (VB be) (NP (CD seven)))) (. .))))
+----------------------------------------------------------------------------------------------------
+(TOP (SBARQ (WHNP (WDT What) (NN day)) (SBARQ_107 (SQ (VBZ is) (NP (NN today))) (. ?)))) 0.00182836878555
+(TOP (ROOT (WHNP (WDT What) (NN day)) (ROOT_184 (SQ (VBZ is) (NP (NN today))) (. ?)))) 0.000402242026693
+                     ################# BEST PARSE TREE ########################
+(TOP (SBARQ (WHNP (WDT What) (NN day)) (SBARQ_107 (SQ (VBZ is) (NP (NN today))) (. ?))))
+----------------------------------------------------------------------------------------------------
+(TOP (SBAR (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (SBAR_19 (VP (TO to) (VP (VB eat))) (. .)))) 2.54449159881e-08
+(TOP (ROOT_132 (NP (NN Milk)) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 6.67554580889e-09
+(TOP (SBAR_26 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (SBAR_25 (VP (TO to) (VP (VB eat))) (. .)))) 9.66091426385e-08
+(TOP (ROOT_142 (NP (NN Milk)) (SBAR (S (VBZ is) (ADJP (JJ good))) (SBAR_21 (VP (TO to) (VP (VB eat))) (. .))))) 2.56704521446e-09
+(TOP (ROOT_160 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (ROOT_159 (VP (TO to) (VP (VB eat))) (. .)))) 9.66091426385e-08
+(TOP (SQ_29 (NP (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (VP (TO to) (VP (VB eat)))) (. .))) 1.65105024769e-09
+(TOP (S_86 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (S_85 (VP (TO to) (VP (VB eat))) (. .)))) 9.66091426385e-08
+(TOP (S_68 (NP (NN Milk)) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 6.67554580889e-09
+(TOP (VP_96 (NP (NN Milk)) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 6.67554580889e-09
+(TOP (ROOT_182 (NP (NN Milk)) (SBAR (S (VBZ is) (ADJP (JJ good))) (SBAR_21 (VP (TO to) (VP (VB eat))) (. .))))) 2.56704521446e-09
+(TOP (NP (NP (NN Milk)) (SBAR (S (VBZ is) (ADJP (JJ good))) (SBAR_21 (VP (TO to) (VP (VB eat))) (. .))))) 1.09612830657e-11
+(TOP (VP_105 (NP (NN Milk)) (SBAR (S (VBZ is) (ADJP (JJ good))) (SBAR_21 (VP (TO to) (VP (VB eat))) (. .))))) 2.56704521446e-09
+(TOP (ROOT (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (ROOT_144 (VP (TO to) (VP (VB eat))) (. .)))) 4.56478198967e-08
+(TOP (SQ_48 (NP (NN Milk)) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 6.67554580889e-09
+(TOP (SQ_49 (NP (NN Milk)) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 6.67554580889e-09
+(TOP (SQ_40 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (SQ_39 (VP (TO to) (VP (VB eat))) (. .)))) 9.66091426385e-08
+(TOP (ROOT_164 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (ROOT_163 (VP (TO to) (VP (VB eat))) (. .)))) 9.66091426385e-08
+(TOP (S (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (S_79 (VP (TO to) (VP (VB eat))) (. .)))) 6.6156008696e-08
+(TOP (ROOT_133 (NP (NN Milk)) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 6.67554580889e-09
+(TOP (VP_95 (NP (NN Milk)) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 6.67554580889e-09
+(TOP (ROOT_173 (NP (NN Milk)) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 6.67554580889e-09
+(TOP (ROOT_172 (NP (NN Milk)) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 6.67554580889e-09
+(TOP (SBAR_17 (NP (NN Milk)) (SBAR (S (VBZ is) (ADJP (JJ good))) (SBAR_21 (VP (TO to) (VP (VB eat))) (. .))))) 2.56704521446e-09
+(TOP (ROOT_153 (NP (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (VP (TO to) (VP (VB eat)))) (. .))) 1.65105024769e-09
+(TOP (SQ_36 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (SQ_35 (VP (TO to) (VP (VB eat))) (. .)))) 9.66091426385e-08
+(TOP (ROOT_151 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (ROOT_150 (VP (TO to) (VP (VB eat))) (. .)))) 9.66091426385e-08
+(TOP (NP_111 (NN Milk) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 1.11575226624e-07
+(TOP (SBAR_8 (NP (NN Milk)) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 6.67554580889e-09
+(TOP (SBAR_7 (NP (NN Milk)) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 6.67554580889e-09
+(TOP (S_67 (NP (NN Milk)) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .))))) 6.67554580889e-09
+(TOP (S_77 (NP (NN Milk)) (SBAR (S (VBZ is) (ADJP (JJ good))) (SBAR_21 (VP (TO to) (VP (VB eat))) (. .))))) 2.56704521446e-09
+(TOP (SQ_58 (NP (NN Milk)) (SBAR (S (VBZ is) (ADJP (JJ good))) (SBAR_21 (VP (TO to) (VP (VB eat))) (. .))))) 2.56704521446e-09
+                     ################# BEST PARSE TREE ########################
+(TOP (NP_111 (NN Milk) (S (S (VBZ is) (ADJP (JJ good))) (S_81 (VP (TO to) (VP (VB eat))) (. .)))))
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_153 (NP (NP (DT These)) (VP (VBP are) (VP_92 (RB not) (NP (NNS books))))) (. .))) 2.52605401726e-07
+(TOP (SQ_36 (NP (DT These)) (SQ_35 (VP (VBP are) (VP_92 (RB not) (NP (NNS books)))) (. .)))) 1.478088951e-05
+(TOP (ROOT_151 (NP (DT These)) (ROOT_150 (VP (VBP are) (VP_92 (RB not) (NP (NNS books)))) (. .)))) 1.478088951e-05
+(TOP (SBAR (NP (DT These)) (SBAR_19 (VP (VBP are) (VP_92 (RB not) (NP (NNS books)))) (. .)))) 3.89299067914e-06
+(TOP (ROOT_160 (NP (DT These)) (ROOT_159 (VP (VBP are) (VP_92 (RB not) (NP (NNS books)))) (. .)))) 1.478088951e-05
+(TOP (ROOT_154 (NP (NP (DT These)) (VP (VBP are) (ADVP (RB not)))) (ROOT_153 (NP (NNS books)) (. .)))) 7.58293720115e-08
+(TOP (SQ_29 (NP (NP (DT These)) (VP (VBP are) (VP_92 (RB not) (NP (NNS books))))) (. .))) 2.52605401726e-07
+(TOP (SQ_30 (NP (NP (DT These)) (VP (VBP are) (ADVP (RB not)))) (SQ_29 (NP (NNS books)) (. .)))) 7.58293720115e-08
+(TOP (S_86 (NP (DT These)) (S_85 (VP (VBP are) (VP_92 (RB not) (NP (NNS books)))) (. .)))) 1.478088951e-05
+(TOP (ROOT_164 (NP (DT These)) (ROOT_163 (VP (VBP are) (VP_92 (RB not) (NP (NNS books)))) (. .)))) 1.478088951e-05
+(TOP (S (NP (DT These)) (S_79 (VP (VBP are) (VP_92 (RB not) (NP (NNS books)))) (. .)))) 1.01216575187e-05
+(TOP (SQ_40 (NP (DT These)) (SQ_39 (VP (VBP are) (VP_92 (RB not) (NP (NNS books)))) (. .)))) 1.478088951e-05
+(TOP (SBAR_26 (NP (DT These)) (SBAR_25 (VP (VBP are) (VP_92 (RB not) (NP (NNS books)))) (. .)))) 1.478088951e-05
+(TOP (ROOT (NP (DT These)) (ROOT_144 (VP (VBP are) (VP_92 (RB not) (NP (NNS books)))) (. .)))) 6.98397029347e-06
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ_36 (NP (DT These)) (SQ_35 (VP (VBP are) (VP_92 (RB not) (NP (NNS books)))) (. .))))
+----------------------------------------------------------------------------------------------------
+(TOP (SBAR_25 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (SBAR_20 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (SBAR_21 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (ROOT_144 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (ROOT_145 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (ROOT_146 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (S_80 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (S_81 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (S_85 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (ROOT_184 (SQ (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0033083292
+(TOP (ROOT_185 (SQ (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0033083292
+(TOP (ROOT_186 (SQ (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0033083292
+(TOP (SBAR_19 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (SBARQ_108 (SQ (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0033083292
+(TOP (SBARQ_109 (SQ (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0033083292
+(TOP (SBARQ_107 (SQ (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0033083292
+(TOP (ROOT_163 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (SQ_35 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (ROOT_150 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (ROOT_159 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (SQ_39 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+(TOP (S_79 (VP (VBP Are) (NP (DT these) (NNS books))) (. ?))) 0.0010175234
+                     ################# BEST PARSE TREE ########################
+(TOP (ROOT_184 (SQ (VBP Are) (NP (DT these) (NNS books))) (. ?)))
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_153 (NP (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry)))) (. .))) 0.000104578284462
+(TOP (SQ_36 (NP (PRP I)) (SQ_35 (VP (VBP 'm) (ADJP (JJ sorry))) (. .)))) 0.00611926766892
+(TOP (ROOT_151 (NP (PRP I)) (ROOT_150 (VP (VBP 'm) (ADJP (JJ sorry))) (. .)))) 0.00611926766892
+(TOP (SQ_34 (NP (NP (PRP I)) (VP (VBP 'm))) (SQ_33 (ADJP (JJ sorry)) (. .)))) 1.49451328047e-05
+(TOP (ROOT_157 (ADJP (NP (NP (PRP I)) (VP (VBP 'm))) (JJ sorry)) (. .))) 2.13481766916e-06
+(TOP (SBAR (NP (PRP I)) (SBAR_19 (VP (VBP 'm) (ADJP (JJ sorry))) (. .)))) 0.00161169271864
+(TOP (ROOT_160 (NP (PRP I)) (ROOT_159 (VP (VBP 'm) (ADJP (JJ sorry))) (. .)))) 0.00611926766892
+(TOP (SQ_29 (NP (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry)))) (. .))) 0.000104578284462
+(TOP (ROOT_158 (NP (NP (PRP I)) (VP (VBP 'm))) (ROOT_157 (ADJP (JJ sorry)) (. .)))) 1.49451328047e-05
+(TOP (S_86 (NP (PRP I)) (S_85 (VP (VBP 'm) (ADJP (JJ sorry))) (. .)))) 0.00611926766892
+(TOP (ROOT_164 (NP (PRP I)) (ROOT_163 (VP (VBP 'm) (ADJP (JJ sorry))) (. .)))) 0.00611926766892
+(TOP (S (NP (PRP I)) (S_79 (VP (VBP 'm) (ADJP (JJ sorry))) (. .)))) 0.00419035211432
+(TOP (SQ_40 (NP (PRP I)) (SQ_39 (VP (VBP 'm) (ADJP (JJ sorry))) (. .)))) 0.00611926766892
+(TOP (SQ_33 (ADJP (NP (NP (PRP I)) (VP (VBP 'm))) (JJ sorry)) (. .))) 2.13481766916e-06
+(TOP (SBAR_26 (NP (PRP I)) (SBAR_25 (VP (VBP 'm) (ADJP (JJ sorry))) (. .)))) 0.00611926766892
+(TOP (ROOT (NP (PRP I)) (ROOT_144 (VP (VBP 'm) (ADJP (JJ sorry))) (. .)))) 0.00289135397356
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ_36 (NP (PRP I)) (SQ_35 (VP (VBP 'm) (ADJP (JJ sorry))) (. .))))
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_153 (NP (NP (DT Those)) (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils))))) (. .))) 2.52605401726e-07
+(TOP (SQ_36 (NP (DT Those)) (SQ_35 (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils)))) (. .)))) 1.478088951e-05
+(TOP (ROOT_151 (NP (DT Those)) (ROOT_150 (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils)))) (. .)))) 1.478088951e-05
+(TOP (SBAR (NP (DT Those)) (SBAR_19 (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils)))) (. .)))) 3.89299067914e-06
+(TOP (ROOT_160 (NP (DT Those)) (ROOT_159 (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils)))) (. .)))) 1.478088951e-05
+(TOP (ROOT_154 (NP (NP (DT Those)) (VP (VBP are) (ADVP (RB not)))) (ROOT_153 (NP (NNS pencils)) (. .)))) 7.58293720115e-08
+(TOP (SQ_29 (NP (NP (DT Those)) (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils))))) (. .))) 2.52605401726e-07
+(TOP (SQ_30 (NP (NP (DT Those)) (VP (VBP are) (ADVP (RB not)))) (SQ_29 (NP (NNS pencils)) (. .)))) 7.58293720115e-08
+(TOP (S_86 (NP (DT Those)) (S_85 (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils)))) (. .)))) 1.478088951e-05
+(TOP (ROOT_164 (NP (DT Those)) (ROOT_163 (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils)))) (. .)))) 1.478088951e-05
+(TOP (S (NP (DT Those)) (S_79 (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils)))) (. .)))) 1.01216575187e-05
+(TOP (SQ_40 (NP (DT Those)) (SQ_39 (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils)))) (. .)))) 1.478088951e-05
+(TOP (SBAR_26 (NP (DT Those)) (SBAR_25 (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils)))) (. .)))) 1.478088951e-05
+(TOP (ROOT (NP (DT Those)) (ROOT_144 (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils)))) (. .)))) 6.98397029347e-06
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ_36 (NP (DT Those)) (SQ_35 (VP (VBP are) (VP_92 (RB not) (NP (NNS pencils)))) (. .))))
+----------------------------------------------------------------------------------------------------
+(TOP (SBAR_25 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (SBAR_20 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (SBAR_21 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (ROOT_144 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (ROOT_145 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (ROOT_146 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (S_80 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (S_81 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (S_85 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (ROOT_184 (SQ (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0033083292
+(TOP (ROOT_185 (SQ (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0033083292
+(TOP (ROOT_186 (SQ (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0033083292
+(TOP (SBAR_19 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (SBARQ_108 (SQ (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0033083292
+(TOP (SBARQ_109 (SQ (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0033083292
+(TOP (SBARQ_107 (SQ (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0033083292
+(TOP (ROOT_163 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (SQ_35 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (ROOT_150 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (ROOT_159 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (SQ_39 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+(TOP (S_79 (VP (VBP Are) (NP (DT those) (NNS pencils))) (. ?))) 0.0010175234
+                     ################# BEST PARSE TREE ########################
+(TOP (ROOT_184 (SQ (VBP Are) (NP (DT those) (NNS pencils))) (. ?)))
+----------------------------------------------------------------------------------------------------
+NO TREE POSSIBLE WITH GRAMMAR
+----------------------------------------------------------------------------------------------------
+(TOP (SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NNS sisters)) (SBARQ_107 (SQ (VBP do) (SQ_37 (NP (PRP you)) (VP (VB have)))) (. ?)))) 3.66370335271e-05
+(TOP (ROOT (WHNP (WHADJP (WRB How) (JJ many)) (NNS sisters)) (ROOT_184 (SQ (VBP do) (SQ_37 (NP (PRP you)) (VP (VB have)))) (. ?)))) 8.06016528744e-06
+(TOP (S (SBAR (WHNP (WHADJP (WRB How) (JJ many)) (NNS sisters)) (S (VBP do) (NP (PRP you)))) (S_80 (VP (VB have)) (. ?)))) 1.00158242452e-08
+(TOP (SBAR (WHNP (WHADJP (WRB How) (JJ many)) (NNS sisters)) (S (VBP do) (S (NP (PRP you)) (S_79 (VP (VB have)) (. ?)))))) 1.26486310873e-07
+                     ################# BEST PARSE TREE ########################
+(TOP (SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NNS sisters)) (SBARQ_107 (SQ (VBP do) (SQ_37 (NP (PRP you)) (VP (VB have)))) (. ?))))
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_153 (NP (NP (DT This)) (VP (VBZ is) (NP (DT a) (NN book)))) (. .))) 2.35807436892e-05
+(TOP (SQ_36 (NP (DT This)) (SQ_35 (VP (VBZ is) (NP (DT a) (NN book))) (. .)))) 0.00137979775829
+(TOP (ROOT_151 (NP (DT This)) (ROOT_150 (VP (VBZ is) (NP (DT a) (NN book))) (. .)))) 0.00137979775829
+(TOP (SBAR (NP (DT This)) (SBAR_19 (VP (VBZ is) (NP (DT a) (NN book))) (. .)))) 0.000363411133578
+(TOP (ROOT_160 (NP (DT This)) (ROOT_159 (VP (VBZ is) (NP (DT a) (NN book))) (. .)))) 0.00137979775829
+(TOP (ROOT_154 (NP (NP (DT This)) (VP (VBZ is) (NP (DT a)))) (ROOT_153 (NP (NN book)) (. .)))) 6.85279319156e-07
+(TOP (SQ_29 (NP (NP (DT This)) (VP (VBZ is) (NP (DT a) (NN book)))) (. .))) 2.35807436892e-05
+(TOP (SQ_30 (NP (NP (DT This)) (VP (VBZ is) (NP (DT a)))) (SQ_29 (NP (NN book)) (. .)))) 6.85279319156e-07
+(TOP (S_86 (NP (DT This)) (S_85 (VP (VBZ is) (NP (DT a) (NN book))) (. .)))) 0.00137979775829
+(TOP (ROOT_164 (NP (DT This)) (ROOT_163 (VP (VBZ is) (NP (DT a) (NN book))) (. .)))) 0.00137979775829
+(TOP (S (NP (DT This)) (S_79 (VP (VBZ is) (NP (DT a) (NN book))) (. .)))) 0.000944857908922
+(TOP (SQ_40 (NP (DT This)) (SQ_39 (VP (VBZ is) (NP (DT a) (NN book))) (. .)))) 0.00137979775829
+(TOP (SBAR_26 (NP (DT This)) (SBAR_25 (VP (VBZ is) (NP (DT a) (NN book))) (. .)))) 0.00137979775829
+(TOP (ROOT (NP (DT This)) (ROOT_144 (VP (VBZ is) (NP (DT a) (NN book))) (. .)))) 0.000651954440792
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ_36 (NP (DT This)) (SQ_35 (VP (VBZ is) (NP (DT a) (NN book))) (. .))))
+----------------------------------------------------------------------------------------------------
+(TOP (SBAR (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 4.80132907766e-09
+(TOP (ROOT_132 (NP (NN Milk)) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 9.59716575671e-09
+(TOP (SBAR_26 (NP (NN Milk)) (SBAR_25 (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (VP (TO to) (VP (VB eat))))))) (. .)))) 1.82285875649e-08
+(TOP (ROOT_142 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))) 1.05692209584e-08
+(TOP (ROOT_160 (NP (NN Milk)) (ROOT_159 (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (VP (TO to) (VP (VB eat))))))) (. .)))) 1.82285875649e-08
+(TOP (ROOT_161 (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 8.8340921392e-08
+(TOP (SQ_29 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (VP (TO to) (VP (VB eat)))))))) (. .))) 3.11526561484e-10
+(TOP (S_86 (NP (NN Milk)) (S_85 (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (VP (TO to) (VP (VB eat))))))) (. .)))) 1.82285875649e-08
+(TOP (S_68 (NP (NN Milk)) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 9.59716575671e-09
+(TOP (VP_96 (NP (NN Milk)) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 9.59716575671e-09
+(TOP (ROOT_182 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))) 1.05692209584e-08
+(TOP (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 1.50974634659e-09
+(TOP (VP_105 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))) 1.05692209584e-08
+(TOP (ROOT (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 8.61323983572e-09
+(TOP (SQ_48 (NP (NN Milk)) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 9.59716575671e-09
+(TOP (SQ_49 (NP (NN Milk)) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 9.59716575671e-09
+(TOP (ROOT_153 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (VP (TO to) (VP (VB eat)))))))) (. .))) 3.11526561484e-10
+(TOP (SQ_40 (NP (NN Milk)) (SQ_39 (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (VP (TO to) (VP (VB eat))))))) (. .)))) 1.82285875649e-08
+(TOP (ROOT_164 (NP (NN Milk)) (ROOT_163 (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (VP (TO to) (VP (VB eat))))))) (. .)))) 1.82285875649e-08
+(TOP (S (NP (NN Milk)) (S_79 (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (VP (TO to) (VP (VB eat))))))) (. .)))) 1.24825721927e-08
+(TOP (ROOT_133 (NP (NN Milk)) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 9.59716575671e-09
+(TOP (VP_95 (NP (NN Milk)) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 9.59716575671e-09
+(TOP (ROOT_173 (NP (NN Milk)) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 9.59716575671e-09
+(TOP (ROOT_172 (NP (NN Milk)) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 9.59716575671e-09
+(TOP (SBAR_17 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))) 1.05692209584e-08
+(TOP (SQ_32 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (SQ_31 (PP (IN for) (NP (NP (PRP you)) (VP (TO to) (VP (VB eat))))) (. .)))) 5.09724984354e-10
+(TOP (SQ_37 (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 8.8340921392e-08
+(TOP (SQ_36 (NP (NN Milk)) (SQ_35 (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (VP (TO to) (VP (VB eat))))))) (. .)))) 1.82285875649e-08
+(TOP (ROOT_151 (NP (NN Milk)) (ROOT_150 (VP (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (VP (TO to) (VP (VB eat))))))) (. .)))) 1.82285875649e-08
+(TOP (ROOT_156 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (ROOT_155 (PP (IN for) (NP (NP (PRP you)) (VP (TO to) (VP (VB eat))))) (. .)))) 5.09724984354e-10
+(TOP (NP_111 (NN Milk) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 1.6040724982e-07
+(TOP (SBAR_8 (NP (NN Milk)) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 9.59716575671e-09
+(TOP (SBAR_7 (NP (NN Milk)) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 9.59716575671e-09
+(TOP (S_67 (NP (NN Milk)) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))))) 9.59716575671e-09
+(TOP (S_77 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))) 1.05692209584e-08
+(TOP (SQ_58 (NP (NP (NN Milk)) (VP (VBZ is) (ADJP (JJ good)))) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .)))))) 1.05692209584e-08
+                     ################# BEST PARSE TREE ########################
+(TOP (NP_111 (NN Milk) (S (VBZ is) (ADJP (JJ good) (SBAR (IN for) (S (NP (PRP you)) (S_79 (VP (TO to) (VP (VB eat))) (. .))))))))
+----------------------------------------------------------------------------------------------------
+(TOP (SBARQ (WHNP (WP Who)) (SBARQ_107 (SQ (VBP are) (NP (PRP you))) (. ?)))) 0.0538526503564
+(TOP (ROOT (WHNP (WP Who)) (ROOT_184 (SQ (VBP are) (NP (PRP you))) (. ?)))) 0.0118476094064
+                     ################# BEST PARSE TREE ########################
+(TOP (SBARQ (WHNP (WP Who)) (SBARQ_107 (SQ (VBP are) (NP (PRP you))) (. ?))))
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_153 (NP (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ afraid)))) (. .))) 0.000104578284462
+(TOP (SQ_36 (NP (PRP I)) (SQ_35 (VP (VBP 'm) (ADJP (JJ afraid))) (. .)))) 0.00611926766892
+(TOP (ROOT_151 (NP (PRP I)) (ROOT_150 (VP (VBP 'm) (ADJP (JJ afraid))) (. .)))) 0.00611926766892
+(TOP (SQ_34 (NP (NP (PRP I)) (VP (VBP 'm))) (SQ_33 (ADJP (JJ afraid)) (. .)))) 1.49451328047e-05
+(TOP (ROOT_157 (ADJP (NP (NP (PRP I)) (VP (VBP 'm))) (JJ afraid)) (. .))) 2.13481766916e-06
+(TOP (SBAR (NP (PRP I)) (SBAR_19 (VP (VBP 'm) (ADJP (JJ afraid))) (. .)))) 0.00161169271864
+(TOP (ROOT_160 (NP (PRP I)) (ROOT_159 (VP (VBP 'm) (ADJP (JJ afraid))) (. .)))) 0.00611926766892
+(TOP (SQ_29 (NP (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ afraid)))) (. .))) 0.000104578284462
+(TOP (ROOT_158 (NP (NP (PRP I)) (VP (VBP 'm))) (ROOT_157 (ADJP (JJ afraid)) (. .)))) 1.49451328047e-05
+(TOP (S_86 (NP (PRP I)) (S_85 (VP (VBP 'm) (ADJP (JJ afraid))) (. .)))) 0.00611926766892
+(TOP (ROOT_164 (NP (PRP I)) (ROOT_163 (VP (VBP 'm) (ADJP (JJ afraid))) (. .)))) 0.00611926766892
+(TOP (S (NP (PRP I)) (S_79 (VP (VBP 'm) (ADJP (JJ afraid))) (. .)))) 0.00419035211432
+(TOP (SQ_40 (NP (PRP I)) (SQ_39 (VP (VBP 'm) (ADJP (JJ afraid))) (. .)))) 0.00611926766892
+(TOP (SQ_33 (ADJP (NP (NP (PRP I)) (VP (VBP 'm))) (JJ afraid)) (. .))) 2.13481766916e-06
+(TOP (SBAR_26 (NP (PRP I)) (SBAR_25 (VP (VBP 'm) (ADJP (JJ afraid))) (. .)))) 0.00611926766892
+(TOP (ROOT (NP (PRP I)) (ROOT_144 (VP (VBP 'm) (ADJP (JJ afraid))) (. .)))) 0.00289135397356
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ_36 (NP (PRP I)) (SQ_35 (VP (VBP 'm) (ADJP (JJ afraid))) (. .))))
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_153 (NP (NP (PRP I)) (VP (VBP have) (NP (NN toothache)))) (. .))) 2.80919432119e-05
+(TOP (SQ_36 (NP (PRP I)) (SQ_35 (VP (VBP have) (NP (NN toothache))) (. .)))) 0.00164376496267
+(TOP (ROOT_151 (NP (PRP I)) (ROOT_150 (VP (VBP have) (NP (NN toothache))) (. .)))) 0.00164376496267
+(TOP (SBAR (NP (PRP I)) (SBAR_19 (VP (VBP have) (NP (NN toothache))) (. .)))) 0.000432934815867
+(TOP (ROOT_160 (NP (PRP I)) (ROOT_159 (VP (VBP have) (NP (NN toothache))) (. .)))) 0.00164376496267
+(TOP (ROOT_154 (NP (NP (PRP I)) (VP (VBP have))) (ROOT_153 (NP (NN toothache)) (. .)))) 2.81025613082e-06
+(TOP (SQ_29 (NP (NP (PRP I)) (VP (VBP have) (NP (NN toothache)))) (. .))) 2.80919432119e-05
+(TOP (SQ_30 (NP (NP (PRP I)) (VP (VBP have))) (SQ_29 (NP (NN toothache)) (. .)))) 2.81025613082e-06
+(TOP (S_86 (NP (PRP I)) (S_85 (VP (VBP have) (NP (NN toothache))) (. .)))) 0.00164376496267
+(TOP (ROOT_164 (NP (PRP I)) (ROOT_163 (VP (VBP have) (NP (NN toothache))) (. .)))) 0.00164376496267
+(TOP (S (NP (PRP I)) (S_79 (VP (VBP have) (NP (NN toothache))) (. .)))) 0.00112561737113
+(TOP (SQ_40 (NP (PRP I)) (SQ_39 (VP (VBP have) (NP (NN toothache))) (. .)))) 0.00164376496267
+(TOP (SBAR_26 (NP (PRP I)) (SBAR_25 (VP (VBP have) (NP (NN toothache))) (. .)))) 0.00164376496267
+(TOP (ROOT (NP (PRP I)) (ROOT_144 (VP (VBP have) (NP (NN toothache))) (. .)))) 0.000776678944859
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ_36 (NP (PRP I)) (SQ_35 (VP (VBP have) (NP (NN toothache))) (. .))))
+----------------------------------------------------------------------------------------------------
+(TOP (ROOT_153 (NP (NP (EX There)) (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .))) 9.51263053914e-09
+(TOP (SQ_36 (NP (EX There)) (SQ_35 (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box))))) (. .)))) 5.56619692167e-07
+(TOP (ROOT_151 (NP (EX There)) (ROOT_150 (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box))))) (. .)))) 5.56619692167e-07
+(TOP (SBAR (NP (EX There)) (SBAR_19 (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box))))) (. .)))) 1.46602494523e-07
+(TOP (ROOT_160 (NP (EX There)) (ROOT_159 (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box))))) (. .)))) 5.56619692167e-07
+(TOP (ROOT_154 (NP (NP (EX There)) (VP (VBP are))) (ROOT_153 (NP (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))) (. .)))) 2.84749655964e-10
+(TOP (SQ_29 (NP (NP (EX There)) (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))))) (. .))) 9.51263053914e-09
+(TOP (SQ_30 (NP (NP (EX There)) (VP (VBP are))) (SQ_29 (NP (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box)))) (. .)))) 2.84749655964e-10
+(TOP (S_86 (NP (EX There)) (S_85 (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box))))) (. .)))) 5.56619692167e-07
+(TOP (ROOT_164 (NP (EX There)) (ROOT_163 (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box))))) (. .)))) 5.56619692167e-07
+(TOP (SQ_32 (NP (NP (EX There)) (VP (VBP are) (NP (CD two) (NNS pencils)))) (SQ_31 (PP (IN in) (NP (PRP$ my) (NN box))) (. .)))) 4.75751408879e-08
+(TOP (S (NP (EX There)) (S_79 (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box))))) (. .)))) 3.81162032802e-07
+(TOP (SQ_40 (NP (EX There)) (SQ_39 (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box))))) (. .)))) 5.56619692167e-07
+(TOP (SBAR_26 (NP (EX There)) (SBAR_25 (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box))))) (. .)))) 5.56619692167e-07
+(TOP (ROOT (NP (EX There)) (ROOT_144 (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box))))) (. .)))) 2.63002804549e-07
+(TOP (ROOT_156 (NP (NP (EX There)) (VP (VBP are) (NP (CD two) (NNS pencils)))) (ROOT_155 (PP (IN in) (NP (PRP$ my) (NN box))) (. .)))) 4.75751408879e-08
+                     ################# BEST PARSE TREE ########################
+(TOP (SQ_36 (NP (EX There)) (SQ_35 (VP (VBP are) (VP_98 (NP (CD two) (NNS pencils)) (PP (IN in) (NP (PRP$ my) (NN box))))) (. .))))
+----------------------------------------------------------------------------------------------------

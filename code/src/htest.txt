@@ -1,0 +1,31 @@
+बीटू_NNP की_PSP मां_NN का_PSP चेहरा_NN मुरझाया_VM हुआ_VAUX ।_SYM
+परिवार_NN में_PSP बंटवारा_NN NULL_VM नहीं_NEG देवी_NN ऐसा_PRP ना_NEG कहो_VM ।_SYM
+बंटवारे_NN का_PSP नाम_NN सुनकर_VM मुझे_PRP घबराहट_NN होने_VM लगी_VAUX है_VAUX ।_SYM
+अब_PRP तो_RP औरतें_NN भी_RP औरतों_NN की_PSP दुश्मन_NN बनने_VM लगी_VAUX हैं_VAUX ।_SYM
+बेचारी_JJ ठगी_VM औरत_NN जाये_VM तो_RP जाये_VM कहां_WQ ?_SYM
+हर_QF आदमी_NN औरत_NN से_PSP बलिदान_NN चाहता_VM है_VAUX ।_SYM
+यह_PRP फिल्म_NN और_CC टीवी_NNC सीरियल_NN बेस_JJ थीम_NNC पार्क_NN है_VM ।_SYM
+सरहदें_NN मुल्कों_NN को_PSP भले_RP ही_RP बांटती_VM हों_VAUX ,_SYM मगर_CC दिलों_NN को_PSP नहीं_NEG बांट_VM सकतीं_VAUX ।_SYM
+आपके_PRP सेलफोन_NN पर_PSP वायरस_NN हमला_NN कर_VM सकते_VAUX हैं_VAUX ।_SYM
+सरकारी_JJ क्षेत्र_NN के_PSP बैंकों_NN के_PSP प्रमुख_NN सोमवार_NNP को_PSP वित्त_NNPC मंत्री_NNP पी._NNPC चिदंबरम_NNP से_PSP मिलेंगे_VM ।_SYM
+प्रधानमंत्री_NNP मनमोहन_NNPC सिंह_NNP अगले_JJ साल_NN की_PSP शुरूआत_NN में_PSP पाकिस्तान_NNP जाएंगे_VM ।_SYM
+गरीबी_NN के_PSP चलते_PSP अपनी_PRP संतान_NN बेचने_VM की_PSP खबरें_NN उड़ीसा_NNP के_PSP लिए_PSP नई_JJ नहीं_NEG हैं_VM ।_SYM
+उच्च_JJ शिक्षण_NNC संस्थानों_NN में_PSP आरक्षण_NN का_PSP मसला_NN अब_PRP केंद्रीय_NNPC मंत्रिमंडल_NNP तक_PSP पहुंच_VM गया_VAUX है_VAUX ।_SYM
+पिछले_JJ एक_QC सप्ताह_NN में_PSP उनकी_PRP यह_DEM दूसरी_QO विदेश_NNC यात्रा_NN है_VM ।_SYM
+भारत_NNP और_CC पाकिस्तान_NNP के_PSP बीच_NST शांति_NNC प्रक्रिया_NN जारी_JJ है_VM ।_SYM
+कोहरे_NN के_PSP कारण_PSP अब_PRP रेलगाड़ियां_NN लेट_UNK नहीं_NEG होंगी_VM ।_SYM
+यहाँ_PRP गीत_NN गाते_VM हैं_VAUX पत्‍थर_NN भी_RP ।_SYM
+दिल्लीवासियों_NN के_PSP लिए_PSP बृहस्पतिवार_NNP का_PSP दिन_NN काफी_INTF सुहावना_JJ रहा_VM ।_SYM
+इसे_PRP रेड_NNPC फोर्ट_NNP के_PSP रूप_PSP में_PSP भी_RP जाना_VM जाता_VAUX है_VAUX ._SYM
+चीनी_NNC उद्योग_NN से_PSP जुड़े_VM विभिन्न_JJ पक्षों_NN के_PSP लिए_PSP यह_PRP अच्छा_JJ समय_NN है_VM ।_SYM
+आकाश_NN धूल_NN से_PSP नहाया_VM हुआ_VAUX था_VAUX ।_SYM
+गाँव_NN में_PSP शादी_NN का_PSP सीजन_NN ज़ोरों_NN पर_PSP था_VM ।_SYM
+इसे_PRP नवाब_NNC शाहजेहन_NNP ने_PSP बनवाया_VM था_VAUX ।_SYM
+इसके_PRP चारों_QC ओर_NST दीवार_NN है_VM और_CC बीच_NST में_PSP एक_QC तालाब_NN है_VM ।_SYM
+इसका_PRP प्रवेश_NNC द्वार_NN दो_QC मंजिला_JJ है_VM ।_SYM
+असम_NNP में_PSP विधानसभा_NN के_PSP दूसरे_QO चरण_NN का_PSP मतदान_NN सोमवार_NNP को_PSP होगा_VM ।_SYM
+जहाँ_PRP सोने_NN सी_PSP चमकती_VM है_VAUX रेत..._NN
+आकाश_NN में_PSP आवारा_JJ बादल_NN छा_VM रहे_VAUX थे_VAUX ।_SYM
+साहब_NN से_PSP फटकार_NN पड़_VM गयी_VAUX क्या_WQ ?_SYM
+कोई_PRP काम_NN है_VM तो_CC बोलो_VM ।_SYM
+
